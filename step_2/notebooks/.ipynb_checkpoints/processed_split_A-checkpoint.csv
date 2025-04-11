@@ -1,0 +1,46 @@
+action,details,original_timestamp,processing_timestamp,source_partition,type,user
+click_button,"{""page_url"": ""/products/item_16"", ""button_id"": ""details""}",2025-04-09T19:51:19.563780,2025-04-09T19:51:19.675763,0,activity,user_134
+click_button,"{""page_url"": ""/products/item_39"", ""button_id"": ""buy_now""}",2025-04-09T19:51:20.474181,2025-04-09T19:51:20.480748,0,activity,user_105
+view_page,"{""page_url"": ""/products/item_4""}",2025-04-09T19:51:22.281453,2025-04-09T19:51:22.288293,0,activity,user_158
+logout,{},2025-04-09T19:51:23.873695,2025-04-09T19:51:23.880933,0,activity,user_189
+add_to_cart,"{""item_id"": ""item_44"", ""quantity"": 2}",2025-04-09T19:51:25.187954,2025-04-09T19:51:25.194094,0,activity,user_161
+logout,{},2025-04-09T19:51:26.861329,2025-04-09T19:51:26.868049,0,activity,user_198
+click_button,"{""page_url"": ""/products/item_2"", ""button_id"": ""details""}",2025-04-09T19:51:28.891092,2025-04-09T19:51:28.898359,0,activity,user_145
+purchase,"{""order_id"": ""order_69777"", ""total_amount"": 190.46, ""item_count"": 4}",2025-04-09T19:51:31.259559,2025-04-09T19:51:31.322282,0,activity,user_107
+purchase,"{""order_id"": ""order_69305"", ""total_amount"": 303.09, ""item_count"": 1}",2025-04-09T19:51:33.185875,2025-04-09T19:51:33.188355,0,activity,user_183
+logout,{},2025-04-09T19:51:35.658861,2025-04-09T19:51:35.665834,0,activity,user_156
+logout,{},2025-04-09T19:51:38.166903,2025-04-09T19:51:38.168977,0,activity,user_110
+view_page,"{""page_url"": ""/products/item_32""}",2025-04-09T19:51:38.854970,2025-04-09T19:51:38.860551,0,activity,user_145
+purchase,"{""order_id"": ""order_27677"", ""total_amount"": 336.28, ""item_count"": 1}",2025-04-09T19:51:40.060952,2025-04-09T19:51:40.077788,0,activity,user_138
+view_page,"{""page_url"": ""/products/item_4""}",2025-04-09T19:51:40.894125,2025-04-09T19:51:40.899487,0,activity,user_111
+add_to_cart,"{""item_id"": ""item_4"", ""quantity"": 2}",2025-04-09T19:51:41.546388,2025-04-09T19:51:41.551447,0,activity,user_192
+add_to_cart,"{""item_id"": ""item_32"", ""quantity"": 2}",2025-04-09T19:51:42.075915,2025-04-09T19:51:42.078692,0,activity,user_107
+view_page,"{""page_url"": ""/products/item_15""}",2025-04-09T19:51:44.367934,2025-04-09T19:51:44.501651,0,activity,user_176
+click_button,"{""page_url"": ""/products/item_9"", ""button_id"": ""buy_now""}",2025-04-09T19:51:45.211745,2025-04-09T19:51:45.213340,0,activity,user_155
+view_page,"{""page_url"": ""/products/item_26""}",2025-04-09T19:51:46.108004,2025-04-09T19:51:46.114770,0,activity,user_141
+view_page,"{""page_url"": ""/products/item_15""}",2025-04-09T19:51:47.786876,2025-04-09T19:51:47.792133,0,activity,user_149
+click_button,"{""page_url"": ""/products/item_12"", ""button_id"": ""details""}",2025-04-09T19:51:48.672322,2025-04-09T19:51:48.677333,0,activity,user_157
+add_to_cart,"{""item_id"": ""item_50"", ""quantity"": 3}",2025-04-09T19:51:49.504006,2025-04-09T19:51:49.510014,0,activity,user_120
+view_page,"{""page_url"": ""/products/item_32""}",2025-04-09T19:51:50.102603,2025-04-09T19:51:50.108810,0,activity,user_190
+view_page,"{""page_url"": ""/products/item_13""}",2025-04-09T19:51:50.831023,2025-04-09T19:51:50.837287,0,activity,user_129
+add_to_cart,"{""item_id"": ""item_15"", ""quantity"": 2}",2025-04-09T19:51:52.028782,2025-04-09T19:51:52.056116,0,activity,user_165
+logout,{},2025-04-09T19:51:53.538833,2025-04-09T19:51:53.543120,0,activity,user_165
+44.42,2025-04-09T19:51:53.725151,2025-04-09T19:51:53.840234,sensor_3,0,Normal,21.68,sensor
+56.15,2025-04-09T19:51:54.839991,2025-04-09T19:51:54.844776,sensor_3,0,Normal,22.08,sensor
+add_to_cart,"{""item_id"": ""item_6"", ""quantity"": 1}",2025-04-09T19:51:55.720795,2025-04-09T19:51:55.726689,0,activity,user_164
+50.97,2025-04-09T19:51:55.845180,2025-04-09T19:51:55.851688,sensor_4,0,Normal,19.53,sensor
+add_to_cart,"{""item_id"": ""item_34"", ""quantity"": 3}",2025-04-09T19:51:56.835729,2025-04-09T19:51:56.841389,0,activity,user_175
+52.39,2025-04-09T19:51:56.851997,2025-04-09T19:51:56.854794,sensor_1,0,Normal,20.9,sensor
+view_page,"{""page_url"": ""/products/item_49""}",2025-04-09T19:51:57.453101,2025-04-09T19:51:57.458354,0,activity,user_144
+57.05,2025-04-09T19:51:57.855360,2025-04-09T19:51:57.862566,sensor_4,0,Normal,22.34,sensor
+click_button,"{""page_url"": ""/products/item_5"", ""button_id"": ""details""}",2025-04-09T19:51:58.049904,2025-04-09T19:51:58.055525,0,activity,user_136
+43.1,2025-04-09T19:51:58.863137,2025-04-09T19:51:58.866987,sensor_5,0,Normal,22.76,sensor
+purchase,"{""order_id"": ""order_87435"", ""total_amount"": 122.62, ""item_count"": 5}",2025-04-09T19:51:58.905365,2025-04-09T19:51:58.907558,0,activity,user_142
+view_page,"{""page_url"": ""/products/item_39""}",2025-04-09T19:51:59.464210,2025-04-09T19:51:59.465888,0,activity,user_141
+42.79,2025-04-09T19:51:59.867007,2025-04-09T19:51:59.870280,sensor_3,0,Normal,19.52,sensor
+55.42,2025-04-09T19:52:00.870050,2025-04-09T19:52:00.878282,sensor_5,0,Normal,20.33,sensor
+logout,{},2025-04-09T19:52:01.651108,2025-04-09T19:52:01.657999,0,activity,user_115
+51.2,2025-04-09T19:52:01.878960,2025-04-09T19:52:01.884553,sensor_3,0,Normal,22.35,sensor
+logout,{},2025-04-09T19:52:02.234403,2025-04-09T19:52:02.238786,0,activity,user_109
+53.93,2025-04-09T19:52:02.884794,2025-04-09T19:52:02.890570,sensor_5,0,Warning,24.94,sensor
+51.32,2025-04-09T19:52:03.891730,2025-04-09T19:52:03.897158,sensor_3,0,Normal,22.56,sensor

@@ -1,0 +1,14 @@
+digraph {
+	graph [fontname=Arial, nodesep=0.125, ranksep=0.25];
+	node [fontcolor=white, fontname=Arial, height=0, shape=box, style=filled, width=0];
+	edge [fontname=Arial];
+	352 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="~:0:<built-in method builtins.exec>\n100.00%\n(0.00%)\n138×", tooltip="~"];
+	352 -> 621 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="100.00%\n1×", labeldistance="4.00", penwidth="4.00"];
+	567 [color="#fe0700", fontcolor="#ffffff", fontsize="10.00", label="~:0:<built-in method time.sleep>\n99.31%\n(99.31%)\n73×", tooltip="~"];
+	568 [color="#ff0100", fontcolor="#ffffff", fontsize="10.00", label="producer_sensor:95:main\n99.94%\n(0.01%)\n1×", tooltip="producer_sensor.py"];
+	568 -> 567 [arrowsize="1.00", color="#fe0700", fontcolor="#fe0700", fontsize="10.00", label="99.31%\n73×", labeldistance="3.97", penwidth="3.97"];
+	568 -> 739 [arrowsize="0.35", color="#0d0f73", fontcolor="#0d0f73", fontsize="10.00", label="0.57%\n73×", labeldistance="0.50", penwidth="0.50"];
+	621 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="producer_sensor:1:<module>\n100.00%\n(0.00%)\n1×", tooltip="producer_sensor.py"];
+	621 -> 568 [arrowsize="1.00", color="#ff0100", fontcolor="#ff0100", fontsize="10.00", label="99.94%\n1×", labeldistance="4.00", penwidth="4.00"];
+	739 [color="#0d0f73", fontcolor="#ffffff", fontsize="10.00", label="producer_sensor:80:send_data\n0.57%\n(0.00%)\n73×", tooltip="producer_sensor.py"];
+}
